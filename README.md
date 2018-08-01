@@ -1,0 +1,2 @@
+# SpringcloudConfig
+用来测试Springcloud的配置中心
